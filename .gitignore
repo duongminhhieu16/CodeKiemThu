@@ -1,4 +1,6 @@
 /.metadata/
-/.js/
-/.json/
-/.cmd/
+*.js
+*.json
+*.cmd
+/cypress/
+/node_modules/
